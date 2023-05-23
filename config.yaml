@@ -71,38 +71,48 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: DSC05667-Edit.jpg
-        subtitle: 
-        title: Work experience
-        url: blogs/aliquam
+      - image: DSC09764.jpg
+        subtitle: Markets
+        title: Project
+        url: blogs/risk_return
       - image: DSC00870.jpg
         subtitle: Feugiat Amet Tempus
-        title: Tempus
+        title: Work experience
         url: blogs/tempus
-      - image: DJI_0132.jpg
-        subtitle: Lorem Etiam Nullam
-        title: Magna
-        url: blogs/magna
       - image: IMG_20220926_185613.jpg
-        subtitle: Nisl Sed Aliquam
-        title: LBS
-        url: blogs/ipsum
-      - image: pic05.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Consequat
-        url: blogs/ipsum
+        subtitle: Work experience
+        title: Education
+        url: blogs/magna
       - image: pic06.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Etiam
+        subtitle: Speeches & Awards
+        title: Conferences
+        url: blogs/ipsum
+      - image: DSC00870.jpg
+        subtitle: photography, cars & coffee
+        title: Hobbies
+        url: blogs/ipsum
+      - image: DSC05667-Edit.jpg
+        subtitle: 
+        title: About me
         url: blogs/ipsum
   two:
     buttonText: Get Started
     enable: yes
-    subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
-      \n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \n    Pellentesque
-      condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
-      pellentesque lorem ipsum dolor. \n    Nullam et orci eu lorem consequat tincidunt.
-      Vivamus et sagittis libero.\n    Mauris aliquet magna magna sed nunc rhoncus
-      amet pharetra et feugiat tempus."
-    title: Massa libero
+    subtitle: "I am a versatile individual with a passion for 
+    finance, cars, and photography. As a financial analyst, I provide valuable
+    insights and assist businesses in making sound financial decisions through 
+    my expertise in market trends, investment strategies, and financial modeling.
+Beyond finance, my unwavering love for cars drives me to immerse myself in the 
+world of automobiles. From classic models to cutting-edge designs, I attend car 
+shows, engage in automotive discussions, and share my thoughts on the latest
+industry developments.
+\n Photography is another creative outlet that I cherish deeply. Through my lens, 
+I capture fleeting moments, stunning landscapes, and candid portraits, reflecting 
+my unique perspective and storytelling abilities.
+\n On this website, you will find a collection of my professional achievements, 
+financial analyses, and recommendations, along with glimpses into my car-related 
+adventures and captivating photographs. Whether you seek financial insights, 
+car-related content, or visual storytelling, I invite you to explore my portfolio 
+and experience the diverse facets of my passion-driven journey."
+    title: Who is Notis?
     url: blogs
