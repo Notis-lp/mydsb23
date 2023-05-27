@@ -1,0 +1,25 @@
+---
+categories:  
+- ""    #the front matter should be like the one found in, e.g., blog2.md. It cannot be like the normal Rmd we used
+- ""
+date: "2021-09-30"
+description: Risk-Return of DJIA stocks # the title that will show up once someone gets to this page
+draft: false
+image: 
+keywords: ""
+slug: education
+title: Education
+---
+  
+
+ccc
+```{r}
+echo=FALSE
+knitr::include_graphics("/img/IMG_20220926_185613.jpg",error=FALSE)
+```
+
+djdkc
+```{r}
+knitr::include_graphics("/img/pic06.jpg",error=FALSE)
+```
+
