@@ -62,7 +62,7 @@ params:
       - name: CV
         url: blogs/cv
       - name: About me
-        url: blogs/about
+        url: 
     menu: Menu
     subtitle: Lapatas
     title: Notis
